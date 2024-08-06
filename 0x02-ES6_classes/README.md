@@ -1,1 +1,1 @@
-0x01-ES6_promise
+0x02-ES6_classes
